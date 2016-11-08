@@ -1,1 +1,31 @@
 /* YOUR STYLES */
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* header */
+.cd-header {
+    background:#a10022;
+}
+
+/* content containers*/
+.cd-gallery li{
+    background:gray;
+}
+
+
+/* grid view*/
+.grid li.mix{
+    background: teal;
+}
+
+/* list view*/
+.list li.mix{
+    background: green;
+    width: 100%;
+}
+
+list li.mix p{
+    color: aqua;
+}
